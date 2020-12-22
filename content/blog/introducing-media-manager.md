@@ -2,7 +2,7 @@
 title: Introducing the TinaCMS Media Manager
 date: '2020-10-02T10:20:39-04:00'
 author: Kendall Strautman
-last_edited: '2020-10-05T01:23:41.347Z'
+last_edited: '2020-12-22T10:32:13.234Z'
 ---
 Websites today contain more dog GIFs and landscape hero photos than ever. Content editors need a way to work with that media when creating and updating web pages, blogs, or articles.
 
